@@ -1,0 +1,13 @@
+name = "Custom Pack 1.20.1"
+author = "Nos"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4dddce19ece1f5d36f0109ed8652ce3c2c152a0fe22d5c6d459ec744de72126b"
+
+[versions]
+forge = "47.4.20"
+minecraft = "1.20.1"
